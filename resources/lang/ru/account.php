@@ -1,0 +1,25 @@
+<?php
+
+return [
+  'avatar'                        => 'Аватар',
+  'company_name'                  => 'Название компании',
+  'create_avatar'                 => 'Загрузить аватар',
+  'create_profile'                => 'Создать профайл',
+  'description'                   => 'Описание',
+  'driver_license'                => 'Права',
+  'education'                     => 'Образование',
+  'flash_success_destroy_avatar'  => 'Аватар успешно удален.',
+  'flash_success_store_avatar'    => 'Аватар успешно загружен.',
+  'hourly_wage'                   => 'Почасовая оплата',
+  'institution'                   => 'Название учебного заведения',
+  'languages'                     => 'Языки',
+  'main_category'                 => 'Основная категория',
+  'phone'                         => 'Тел',
+  'position'                      => 'Должность',
+  'professional_expirience'       => 'Профессиональный опыт',
+  'refresh_profile'               => 'Обновить профайл',
+  'specialization'                => 'Специализация',
+  'whats_new'                     => 'Опишите, что нового Вы подчерпнули для себя...',
+  'yet_working'                   => 'До сих пор работаю',
+  'yet_study'                     => 'До сих пор учусь',
+];

@@ -1,0 +1,11 @@
+/vendor/
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+/public/bower/
+/.idea/
+/public/uploads/users/avatars/
+/public/uploads/users/albums/
+/public/uploads/users/tasks/
+/public/assets/

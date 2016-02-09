@@ -1,0 +1,1 @@
+{{ trans('auth.email_verification') }} <a href="{{ url(App::getLocale().'/email/verification/'.$token.'/'.$id) }}">{{ url(App::getLocale().'/email/verification/'.$token.'/'.$id) }}</a>
